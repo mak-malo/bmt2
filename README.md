@@ -1,3 +1,3 @@
-# bmt2
+# bmt-2
 # try to edit
-# bmt3
+# bmt-3
